@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mtb.Api1", "Mtb.Api1\Mtb.Api1.csproj", "{0E2FE18C-6C53-4CB9-81EF-ED950A5C7122}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mtb.Api2", "Mtb.Api2\Mtb.Api2.csproj", "{11595DC5-AA6F-42B3-BDFD-6E58DA8DDFEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mtb.Api3", "Mtb.Api3\Mtb.Api3.csproj", "{6B356BAB-D263-4699-B4DC-57ECCF663344}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mtb.LoadBalancer.Service", "Mtb.LoadBalancer.Service\Mtb.LoadBalancer.Service.csproj", "{F9AC6603-B2A0-4D20-B9C0-E0A856BC9CDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mtb.LoadBalancer.Test.Client", "Mtb.LoadBalancer.Test.Client\Mtb.LoadBalancer.Test.Client.csproj", "{A3CA005B-5BB0-4C31-82C9-56588EE1952E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mtb.Api4", "Mtb.Api4\Mtb.Api4.csproj", "{CC5E2B5B-51AB-410F-A78B-936677FAD80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2FE18C-6C53-4CB9-81EF-ED950A5C7122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2FE18C-6C53-4CB9-81EF-ED950A5C7122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2FE18C-6C53-4CB9-81EF-ED950A5C7122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2FE18C-6C53-4CB9-81EF-ED950A5C7122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11595DC5-AA6F-42B3-BDFD-6E58DA8DDFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11595DC5-AA6F-42B3-BDFD-6E58DA8DDFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11595DC5-AA6F-42B3-BDFD-6E58DA8DDFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11595DC5-AA6F-42B3-BDFD-6E58DA8DDFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B356BAB-D263-4699-B4DC-57ECCF663344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B356BAB-D263-4699-B4DC-57ECCF663344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B356BAB-D263-4699-B4DC-57ECCF663344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B356BAB-D263-4699-B4DC-57ECCF663344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AC6603-B2A0-4D20-B9C0-E0A856BC9CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AC6603-B2A0-4D20-B9C0-E0A856BC9CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AC6603-B2A0-4D20-B9C0-E0A856BC9CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AC6603-B2A0-4D20-B9C0-E0A856BC9CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CA005B-5BB0-4C31-82C9-56588EE1952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CA005B-5BB0-4C31-82C9-56588EE1952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CA005B-5BB0-4C31-82C9-56588EE1952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CA005B-5BB0-4C31-82C9-56588EE1952E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5E2B5B-51AB-410F-A78B-936677FAD80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5E2B5B-51AB-410F-A78B-936677FAD80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5E2B5B-51AB-410F-A78B-936677FAD80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5E2B5B-51AB-410F-A78B-936677FAD80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD8B93C7-6529-4E6F-AB7A-36315A02246B}
+	EndGlobalSection
+EndGlobal
